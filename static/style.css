@@ -1,0 +1,70 @@
+#head {
+    margin: auto;
+    text-align: center;
+}
+
+#box1 {
+    background-color: bisque;
+    height: 700px;
+}
+
+#name {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#form1 {
+    margin-left: 485px;
+    margin-top: 10px;
+    height: 50px;
+    width: 250px;
+    display: flex;
+}
+
+#form2 {
+    margin-left: 470px;
+    margin-top: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+#comments {
+    margin-left: 380px;
+    margin-top: 35px;
+    text-align: center;
+    width: 350px;
+    height: 250px;
+    display: flex;
+    position: absolute;
+}
+
+#comment {
+    position: absolute;
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 505px;
+}
+
+#submit {
+    position: absolute;
+    display: flex;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+
+
+#container {
+    border: 1px solid black;
+    height: 250px;
+    width: 400px;
+    margin: auto;
+    background-color: cornflowerblue;
+}
+
+.success1 {
+    text-align: center;
+    
+}
+
